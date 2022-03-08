@@ -1,2 +1,2 @@
 # sejin gyosunim zzang
-printf("sejin gyosunim zo-a-yo")
+("sejin gyosunim zo-a-yo")
